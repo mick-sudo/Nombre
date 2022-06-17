@@ -1,0 +1,21 @@
+
+.container{
+    margin-top: 10%;
+    margin-left: 35%;
+    text-align: center;
+    background-color: #01BAEF;
+    width: 40%;
+    height: 40%;
+    border: solid;
+    border-radius: 10px;
+}
+
+button {
+    border-radius: 5px;
+    background-color: #0B4F6C;
+    color: #FBFBFF;
+}
+
+body {
+    background-color: #FBFBFF;
+}
